@@ -38,7 +38,7 @@ console.log(x);
 //b = ++a; // a = 3, b = 3 */
 
 //lecture - if/else statement
-var name='Arvind';
+/* var name='Arvind';
 var age=40;
 var isMarried='no';
 if(isMarried==='yes'){
@@ -48,7 +48,9 @@ if(isMarried==='yes'){
 }
 console.log('1'===1);
 if(23===23)
-{console.log('no type coersion');}
+{console.log('no type coersion');} */
+
+console.log('Hello friends');
 
 var age=prompt('enter age');
 
@@ -62,5 +64,6 @@ else if(age >= 20 && age <= 30) {
 }else{
     console.log('man');
 }
+
 
 
